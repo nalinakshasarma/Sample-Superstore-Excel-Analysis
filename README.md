@@ -31,5 +31,5 @@ An end-to-end retail sales and profitability analysis conducted in Microsoft Exc
 
 - Pivot Tables & Pivot Charts
 - Slicers & Dynamic Filtering
-- Summary Formulas (`XLOOKUP`, `SUMIFS`, conditional metrics)
+- Summary Formulas (`LOOKUPS`, `SUMIFS`, conditional metrics)
 - Data Formatting & Custom KPI Card Design
